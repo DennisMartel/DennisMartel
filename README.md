@@ -21,3 +21,8 @@ Actualmente estoy aprendiendo tecnología como
 * Node 🖥
 * Mongodb 🖥
 * Vue 🖥
+* grahpql 🖥
+* webpack 🖥
+* docker 🖥
+* express JS 🖥
+* socket 🖥
